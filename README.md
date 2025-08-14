@@ -30,13 +30,5 @@ npm run dev
 - **Backend**: Render (Web Service) → set env `OPENAI_API_KEY`
 - **Frontend**: Vercel → set env `VITE_API_BASE` to your backend URL
 
-## Screenshots
-_Add screenshots of the UI here_
-
-## Resume Snippet
-- Developed and deployed a full-stack AI chatbot using React, Node, and OpenAI API.
-- Implemented persistent conversation memory and customizable system prompts.
-- Deployed via Vercel (frontend) and Render (backend), enabling public demo access.
-
 ## License
 MIT
